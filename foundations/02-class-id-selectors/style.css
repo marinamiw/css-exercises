@@ -1,0 +1,27 @@
+.impar {
+    background-color: rgb(247, 82, 82);
+    font-family: Verdana, DejaVu Sans, sans-serif ;
+
+
+
+
+
+}
+
+
+
+
+.impar.tres {
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
